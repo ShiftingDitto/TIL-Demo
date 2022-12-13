@@ -2,17 +2,19 @@ h1 {
   font-size: 42px;
   text-transform: uppercase;
   text-align: center;
+  font-family: "Coiny", cursive;
 }
 
-p {
+.fact {
   font-size: 20px;
   line-height: 1.4;
-  font-family: "Courier New", Courier, monospace;
+  font-family: "Sono", sans-serif;
 }
 
-span {
+.tag {
   text-transform: capitalize;
   font-size: 14px;
+  font-family: "Coiny", sans-serif;
 }
 
 ul {
